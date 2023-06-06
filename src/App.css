@@ -1,0 +1,37 @@
+.container{
+    
+    
+    
+
+}
+.header{
+border: 1px solid red;
+width: 50%;
+margin: 0 auto
+}
+.input{
+    font-size: 20px;
+    margin: 20px;
+    width: 70%;
+}
+.image{
+width: 200px;
+height: 300px;
+cursor: pointer;
+transition: all 200ms ease-in-out;
+}
+.image:hover{
+transform: scale(1.1);
+
+}
+.body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.imageContainer{
+    padding:20px;
+    
+}
+
